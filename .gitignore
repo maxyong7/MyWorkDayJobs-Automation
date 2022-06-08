@@ -1,3 +1,7 @@
 src/secrets.ts
+src/index.ts
+src/href_logs.json
+src/devtool_recorder
+src/tmp
 dst
 node_modules
