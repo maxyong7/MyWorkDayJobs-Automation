@@ -1,3 +1,5 @@
+**Helpful resources when learning to use Puppeteer**
+
 #Might be useful (Cheat Sheet)
 https://devhints.io/xpath
 
