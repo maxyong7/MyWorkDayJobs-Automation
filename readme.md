@@ -1,4 +1,6 @@
-# **Helpful resources when I was learning to use Puppeteer**
+> A web scraping automation script to speed up & automate job applications on "MyWorkDayJobs".
+
+## **Helpful resources when I was learning to use Puppeteer**
 
 #### 1. **XPath CheatSheet** 
 - https://devhints.io/xpat
