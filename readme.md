@@ -1,6 +1,6 @@
 ### <ins> Web Scraping Automation Script for "MyWorkDayJobs"
 
-- Utilized: ```Typescript, Puppeteer, Chrome DevTools, XPath, JSON, Cookies```
+- Utilized: ```Typescript, Puppeteer, Chrome DevTools, XPath, JSON, Cookies Session```
 
 It can:
 > 1. Automatically click **"Apply"** and **upload** both _"Resume"_ and _"Cover Letter"_
