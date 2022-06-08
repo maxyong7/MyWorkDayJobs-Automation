@@ -1,4 +1,4 @@
-### <ins> Web Scraping Automation Script to speed up & automate job applications on "MyWorkDayJobs"
+### <ins> Web Scraping Automation Script for "MyWorkDayJobs"
 
 - Utilized: ```Typescript, Puppeteer, Chrome DevTools, XPath, JSON, Cookies```
 
@@ -9,7 +9,9 @@ It can:
 > 4. Remembers and **save login sessions** as cookie (So user don't have to keep logging in)
 > 5. Apply for **100++ jobs** within minutes
 
-
+<br />
+<br />
+        
 ###  <ins> **Helpful resources when I was learning to use Puppeteer:**
 #### 1. **XPath CheatSheet** 
 - https://devhints.io/xpat
